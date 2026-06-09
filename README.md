@@ -85,7 +85,7 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
 />
 
 <img 
