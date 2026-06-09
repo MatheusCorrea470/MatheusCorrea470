@@ -21,7 +21,8 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
   Dashboard interativo voltado para análise comercial e acompanhamento de prospecções, permitindo visualizar indicadores de desempenho, oportunidades e evolução de resultados.
 - 🐍 [Projeto de Regressão Linear (Python)](https://github.com/MatheusCorrea470/regressao-linear-faturamento)
 
-  Desenvolvimento de regressão linear de forma manual, com posterior comparação utilizando Statsmodels e Scikit-learn para validação dos resultados.  
+  Desenvolvimento de regressão linear de forma manual, com posterior comparação utilizando Statsmodels e Scikit-learn para validação dos resultados.
+  
 🗄️ [Análise de Vendas com SQL](https://github.com/MatheusCorrea470/analise-vendas-sql)
   Projeto completo de análise de dados com SQL, incluindo construção de banco de dados, modelagem de funil de vendas e extração de métricas estratégicas.  
 
