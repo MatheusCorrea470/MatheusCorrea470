@@ -24,6 +24,7 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
   Desenvolvimento de regressão linear de forma manual, com posterior comparação utilizando Statsmodels e Scikit-learn para validação dos resultados.
   
 🗄️ [Análise de Vendas com SQL](https://github.com/MatheusCorrea470/analise-vendas-sql)
+
   Projeto completo de análise de dados com SQL, incluindo construção de banco de dados, modelagem de funil de vendas e extração de métricas estratégicas.  
 
 
