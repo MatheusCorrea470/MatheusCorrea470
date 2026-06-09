@@ -40,48 +40,54 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Pandas" 
     title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-bi.png"         
+    src="https://img.icons8.com/color/48/power-bi.png" 
 />
+
 <img 
     align="left" 
     alt="Qlik Sense" 
     title="Qlik Sense"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/Q/qlik-sense-logo-4FA4A6B0EB-seeklogo.com.png"         
+    src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" 
 />
+
 <img 
     align="left" 
     alt="Excel" 
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Machine Learning" 
@@ -93,7 +99,6 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
 
 <br/>
 <br/>
-
 ---
 
 ### 🚀 Áreas de Interesse
