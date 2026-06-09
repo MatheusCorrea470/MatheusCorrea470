@@ -14,12 +14,15 @@ Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos
 
 
 - 💰 [Dashboard de Fluxo de Caixa (Power BI)](https://bit.ly/Fluxo-de-caixa-SaturnMatheus)
+  
   Análise de receitas, despesas e margem, com foco no acompanhamento financeiro e apoio à tomada de decisão. Clique no link para visualizar o dashboard
 - 📊 [Dashboard Comercial de Prospecções (Power BI)](https://bit.ly/Prospecções-SaturnMatheus)
+  
   Dashboard interativo voltado para análise comercial e acompanhamento de prospecções, permitindo visualizar indicadores de desempenho, oportunidades e evolução de resultados.
 - 🐍 [Projeto de Regressão Linear (Python)](https://github.com/MatheusCorrea470/regressao-linear-faturamento)
+
   Desenvolvimento de regressão linear de forma manual, com posterior comparação utilizando Statsmodels e Scikit-learn para validação dos resultados.  
-🗄️ [Análise de Vendas com SQL](https://github.com/MatheusCorrea470/analise-vendas-sql))  
+🗄️ [Análise de Vendas com SQL](https://github.com/MatheusCorrea470/analise-vendas-sql)
   Projeto completo de análise de dados com SQL, incluindo construção de banco de dados, modelagem de funil de vendas e extração de métricas estratégicas.  
 
 
