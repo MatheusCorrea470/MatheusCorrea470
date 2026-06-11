@@ -1,139 +1,98 @@
 # Matheus Saturnino 📊
 
-**`Estudante de Análise de Dados | Ciência de Dados`**
+**`Data Analysis | Data Science Student`**
 
-Sou estudante de Análise de Dados e Ciência de Dados, com 2 anos de experiência profissional atuando com dados. Ao longo da minha jornada, venho desenvolvendo habilidades práticas em Python, SQL e Machine Learning, aplicadas na análise, tratamento e visualização de dados.
+I am a Data Analysis and Data Science student with 2 years of professional experience working with data. Throughout my journey, I have developed practical skills in Python, SQL, and Machine Learning, applied to data analysis, data processing, and visualization.
 
-Possuo experiência na construção de dashboards interativos e análise de métricas utilizando Power BI, Qlik Sense e Excel, com foco em gerar insights estratégicos para apoiar a tomada de decisão.
+I have experience building interactive dashboards and analyzing business metrics using Power BI, Qlik Sense, and Excel, focusing on generating strategic insights to support decision-making.
 
-Atualmente, continuo evoluindo meus conhecimentos por meio de projetos práticos em análise de dados e modelagem preditiva.
-
----
-
-### 📊 Projetos em Destaque
-
-
-- 💰 [Dashboard de Fluxo de Caixa (Power BI)](https://bit.ly/Fluxo-de-caixa-SaturnMatheus)
-  
-  Análise de receitas, despesas e margem, com foco no acompanhamento financeiro e apoio à tomada de decisão. Clique no link para visualizar o dashboard
-- 📊 [Dashboard Comercial de Prospecções (Power BI)](https://bit.ly/Prospecções-SaturnMatheus)
-  
-  Dashboard interativo voltado para análise comercial e acompanhamento de prospecções, permitindo visualizar indicadores de desempenho, oportunidades e evolução de resultados.
-- 🐍 [Projeto de Regressão Linear (Python)](https://github.com/MatheusCorrea470/regressao-linear-faturamento)
-
-  Desenvolvimento de regressão linear de forma manual, com posterior comparação utilizando Statsmodels e Scikit-learn para validação dos resultados.
-
-- 🗄️ [Análise de Vendas com SQL](https://github.com/MatheusCorrea470/analise-vendas-sql)
-
-  Projeto completo de análise de dados com SQL, incluindo construção de banco de dados, modelagem de funil de vendas e extração de métricas estratégicas.  
-
+Currently, I am continuously improving my skills through hands-on projects in data analysis and predictive modeling.
 
 ---
 
-### 🌐 Conecte-se comigo
+### 📊 Featured Projects
+
+- 💰 [Cash Flow Dashboard (Power BI)](https://bit.ly/Fluxo-de-caixa-SaturnMatheus)
+
+  Analysis of revenue, expenses, and margins, focused on financial monitoring and decision-making support.
+
+- 📊 [Sales Pipeline Dashboard (Power BI)](https://bit.ly/Prospecções-SaturnMatheus)
+
+  Interactive dashboard focused on sales analysis and pipeline tracking, enabling visualization of performance indicators, opportunities, and results evolution.
+
+- 🐍 [Linear Regression Project (Python)](https://github.com/MatheusCorrea470/regressao-linear-faturamento)
+
+  Developed a linear regression model from scratch, followed by validation using Statsmodels and Scikit-learn.
+
+- 🗄️ [Sales Data Analysis with SQL](https://github.com/MatheusCorrea470/analise-vendas-sql)
+
+  End-to-end SQL data analysis project, including database creation, sales funnel modeling, and extraction of key business metrics.
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheus-saturnino-86a904232/">
         <img 
             alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+            title="Connect with me on LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Tecnologias & Ferramentas
+### 🤖 Technologies & Tools
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
-/>
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-bi.png" 
-/>
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" 
+src="https://img.icons8.com/color/48/power-bi.png"/>
 
-<img 
-    align="left" 
-    alt="Qlik Sense" 
-    title="Qlik Sense"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" 
-/>
+<img align="left" alt="Qlik Sense" title="Qlik Sense" width="30px" style="padding-right: 10px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg"/>
 
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
-/>
+<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" 
+src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 
-<img 
-    align="left" 
-    alt="Machine Learning" 
-    title="Machine Learning"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-/>
+<img align="left" alt="Machine Learning" title="Machine Learning" width="30px" style="padding-right: 10px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
 <br/>
 <br/>
----
-
-### 🚀 Áreas de Interesse
-
-- 📊 Análise de Dados
-- 🤖 Machine Learning
-- 📈 Visualização de Dados
-- 🧠 Ciência de Dados
 
 ---
 
-### 📊 Estatísticas
+### 🚀 Areas of Interest
+
+- 📊 Data Analysis  
+- 🤖 Machine Learning  
+- 📈 Data Visualization  
+- 🧠 Data Science  
+
+---
+
+### 📊 GitHub Stats
 
 <p>
     <div align="center">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCorrea470&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCorrea470&show_icons=true&theme=react&include_all_commits=true"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCorrea470&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCorrea470&layout=compact&theme=react"
       />
     </div>
 </p>
